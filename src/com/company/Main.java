@@ -4,7 +4,7 @@ import javax.xml.bind.Element;
 import java.util.*;
 
 public class Main {
-    
+
     public static List<Elem> listTemp = new ArrayList<Elem>();
     public static List<Elem> result = new ArrayList<Elem>();
 
