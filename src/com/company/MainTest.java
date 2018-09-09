@@ -7,6 +7,14 @@ import static org.hamcrest.core.Is.is;
 public class MainTest {
 
     @org.junit.Test
+    public void sortAsc() {
+    }
+
+    @org.junit.Test
+    public void sortDesc() {
+    }
+
+    @org.junit.Test
     public void findParent() {
         String input = "K1\\SK1\\SSK2";
         String expect = "K1\\SK1\\SSK2";
